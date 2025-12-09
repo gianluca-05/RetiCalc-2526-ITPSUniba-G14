@@ -16,5 +16,5 @@ Consegna UDP:
 - server-UDP_G14
   Contiene il sorgente `server-UDP_G14.c`
 
-Il sistema operativo utilizzato per la realizzazione e i test delle applicazioni è: MacOS
+Il sistema operativo utilizzato per la realizzazione e i test delle applicazioni è: Macos
 
